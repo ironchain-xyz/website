@@ -46,7 +46,7 @@ extracssfiles          = [ "/css/override.css" ]       # In your `static` direct
 faviconfile            = "img/ironchain.ico"
 github                 = "https://github.com/ironchain-xyz"
 lang                   = "en"
-discord                = "https://discord.gg/hgNdad7f"
+discord                = "https://discord.gg/ynRm8ZBjRT"
 twitter                = "https://twitter.com/IronChainDao"
 ens                    = "https://etherscan.io/enslookup-search?search=ironchain.eth"
 
